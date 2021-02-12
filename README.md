@@ -1,4 +1,4 @@
-### Hello there 👋
+### Hi, y'all 👋
 
 - 🔭 I’m currently working on predicting hurricane wind speeds with satellite images   
 - 🌱 I’m currently learning about supporting genomics research with cloud technologies
