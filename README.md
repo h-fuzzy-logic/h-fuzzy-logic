@@ -4,6 +4,6 @@
 - 🌱 I’m currently learning about supporting genomics research with cloud technologies
 - 👯 I’m looking to collaborate on demystifying data science black boxes, such as CNNs for image classification
 - 💬 Ask me about how to find time to be a life-long learner while working full-time and having many grown-up responsibilities
-- 📫 Connect with me on LinkedIn: https://www.linkedin.com/in/heather-woods/
+- 📫 How to reach me: https://www.linkedin.com/in/heather-woods/
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I have been skydiving
