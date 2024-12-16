@@ -15,13 +15,13 @@
 
 :round_pushpin: Tusculum University, Greeneville, TN
 
-[Event Details](explainable-ai-tusculum.jpg)
+[Event Details](https://github.com/h-fuzzy-logic/explainability-fairness-safety-for-ai/blob/main/presentations/explainable-ai-tusculum.jpg)
 
 ### Explainable AI: How Software and Data Teams Can Get Started
 :date: Presented August 13, 2024
 
 :round_pushpin: TriDev Meetup, Johnson City, TN
 
-:link: [Event Details](https://www.meetup.com/tridev/events/301580743/)
+:link: (Requires meetup.com account) [Event Details](https://www.meetup.com/tridev/events/301580743/)
 
 
