@@ -10,12 +10,21 @@
 - ⚡ Fun fact: I have been skydiving
 
 ## Recent talks
+
+### Advance Your Career: 6 Tips for Strategic Learning
+:date: Presented January 7, 2025
+
+:round_pushpin: Women In Big Data Bay Area Chapter Meetup, Virtual
+
+:link: (Requires meetup.com account) [Event Details](https://www.meetup.com/women-in-big-data-meetup/events/305256042/?eventOrigin=group_events_list)
+
+
 ### Explainable AI: How Software and Data Teams Can Get Started
 :date: Presented November 6, 2024
 
 :round_pushpin: Tusculum University, Greeneville, TN
 
-[Event Details](https://github.com/h-fuzzy-logic/explainability-fairness-safety-for-ai/blob/main/presentations/explainable-ai-tusculum.jpg)
+:link:  [Event Details](https://github.com/h-fuzzy-logic/explainability-fairness-safety-for-ai/blob/main/presentations/explainable-ai-tusculum.jpg)
 
 ### Explainable AI: How Software and Data Teams Can Get Started
 :date: Presented August 13, 2024
