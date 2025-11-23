@@ -1,13 +1,22 @@
 ## Hi, y'all 👋
 
-- 🔭 I’m currently working on [interpretable machine learning with Python](https://github.com/h-fuzzy-logic/Interpretable-Machine-Learning-with-Python-2E)
-- 🌱 I'm currently learning about [responsible AI](https://github.com/h-fuzzy-logic/explainability-fairness-safety-for-ai)    
-- 🧬 I donate my time to data for good causes like, [accelerating genomics research with cloud technologies](https://github.com/lynnlangit/aws-for-bioinformatics)
-- 👯 I’m looking to collaborate on explainable AI (XAI) and AI safety
-- 💬 Ask me about how to find time to be a life-long learner while working full-time and being a caretaker 
-- 📫 How to reach me: https://www.linkedin.com/in/heather-woods/
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: I have been skydiving
+I'm a lifelong learner currently working on [interpretable machine learning with Python](https://github.com/h-fuzzy-logic/Interpretable-Machine-Learning-with-Python-2E) and curating resources about [AI explainability, fairness, and safety](https://github.com/h-fuzzy-logic/explainability-fairness-safety-for-ai).  
+
+My current focus:
+* Building safer and trustworthy AI and ML systems 
+* Donating time to tech-for-good causes like [accelerating genomics research with cloud technologies](https://github.com/lynnlangit/aws-for-bioinformatics) and responsible AI practices 
+* Using Cursor and GitHub Copilot to offload boilerplate and syntax, keeping my focus on system architecture and problems that AI assistants are not good at solving
+
+I'm always happy to talk about and collaborate on: 
+* making black-box models more trustworthy
+* efficiently incorporating AI coding assistants into your development workflow
+* finding time to keep learning while juggling a full-time job and caregiving responsibilities
+
+📫 Reach me on [LinkedIn](https://www.linkedin.com/in/heather-woods/)
+
+😄 Pronouns: she/her
+
+⚡ Fun fact: I've been skydiving
 
 ## Recent talks
 
