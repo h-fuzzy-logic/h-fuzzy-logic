@@ -12,12 +12,12 @@ I'm always happy to talk about and collaborate on:
 * efficiently incorporating AI coding assistants into your development workflow
 * finding time to keep learning while juggling a full-time job and caregiving responsibilities
 
-😁 Connect with me [LinkedIn](https://www.linkedin.com/in/heather-woods/)
+😁 Connect with me on [LinkedIn](https://www.linkedin.com/in/heather-woods/)
 
 💬 Pronouns: she/her
 
 🎲 Fun facts: 
-* I’ve been sky diving...once
+* I’ve been sky diving...once.
 * I love hackathons. I’ve planned 9 and participated in 5. 
 * I’ve been a part of two iPhone apps. 
     - I was part of a team that developed the Know:BRCA app that helped healthcare providers assess the risk of patients developing breast cancer.
