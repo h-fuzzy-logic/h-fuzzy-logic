@@ -12,7 +12,7 @@ I'm always happy to talk about and collaborate on:
 * efficiently incorporating AI coding assistants into your development workflow
 * finding time to keep learning while juggling a full-time job and caregiving responsibilities
 
-👋 Reach me on [LinkedIn](https://www.linkedin.com/in/heather-woods/)
+😁 Connect with me [LinkedIn](https://www.linkedin.com/in/heather-woods/)
 
 💬 Pronouns: she/her
 
