@@ -5,7 +5,7 @@ I'm a lifelong learner currently working on [interpretable machine learning with
 My current focus:
 * Building safer and trustworthy AI and ML systems 
 * Donating time to tech-for-good causes like [accelerating genomics research with cloud technologies](https://github.com/lynnlangit/aws-for-bioinformatics) and responsible AI practices 
-* Using Cursor and GitHub Copilot to offload boilerplate and syntax, keeping my focus on system architecture and problems that AI assistants are not good at solving
+* Using Cursor, Kiro, and GitHub Copilot to offload boilerplate and syntax, keeping my focus on system architecture and problems that AI assistants are not good at solving
 
 I'm always happy to talk about and collaborate on: 
 * making black-box models more trustworthy
