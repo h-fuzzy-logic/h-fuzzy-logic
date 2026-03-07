@@ -19,7 +19,7 @@ I'm always happy to talk about and collaborate on:
 🎲 Fun facts: 
 * I’ve been sky diving...once.
 * I love hackathons. I’ve planned 9 and participated in 5. 
-* I’ve been a part of two iPhone apps. 
+* I’ve been a part of 2 iPhone apps. 
     - I was part of a team that developed the Know:BRCA app that helped healthcare providers assess the risk of patients developing breast cancer.
     - On my own, I shipped the Night Explorer app, which helped kiddos who were scared of the dark verify their bedrooms were monster free.
 
