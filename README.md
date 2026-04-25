@@ -23,6 +23,12 @@ I'm always happy to talk about and collaborate on:
     - I was part of a team that developed the Know:BRCA app that helped healthcare providers assess the risk of patients developing breast cancer.
     - On my own, I shipped the Night Explorer app, which helped kiddos who were scared of the dark verify their bedrooms were monster free.
 
+📈 Approach to work: 
+* I love startups and small businesses
+* I have participated in one PITCH competition
+* I’ve seen a startup scale from 7 -> 60+ engineers 
+* I’ve completed an in-person startup accelerator program 
+* Growing-up, my parents ran a small business and it influences how I show up at work to this day.  
 
 ## Recent talks
 
