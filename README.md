@@ -1,16 +1,14 @@
 ## Hi, y'all 👋
 
-I'm a lifelong learner currently working on [interpretable machine learning with Python](https://github.com/h-fuzzy-logic/Interpretable-Machine-Learning-with-Python-2E) and curating resources about [AI explainability, fairness, and safety](https://github.com/h-fuzzy-logic/explainability-fairness-safety-for-ai).  
+I'm currently working on: 
+* An LLM-judge calibration kit: measuring position, verbosity, and self-preference bias in LLM judges
+* Open source contributions to [Neuronpedia](https://github.com/hijohnnylin/neuronpedia/pull/219)
+* ARENA: transformer interpretability and LLM evaluations
+* Curating resources about [AI explainability, fairness, and safety](https://github.com/h-fuzzy-logic/explainability-fairness-safety-for-ai).  
 
 My current focus:
 * Building safer and trustworthy AI and ML systems 
-* Donating time to tech-for-good causes like [accelerating genomics research with cloud technologies](https://github.com/lynnlangit/aws-for-bioinformatics) and responsible AI practices 
-* Using Cursor, Kiro, and GitHub Copilot to offload boilerplate and syntax, keeping my focus on system architecture and problems that AI assistants are not good at solving
-
-I'm always happy to talk about and collaborate on: 
-* making black-box models more trustworthy
-* efficiently incorporating AI coding assistants into your development workflow
-* finding time to keep learning while juggling a full-time job and caregiving responsibilities
+* Open source contributions to tech-for-good causes like [accelerating genomics research with cloud technologies](https://github.com/lynnlangit/aws-for-bioinformatics)
 
 😁 Connect with me on [LinkedIn](https://www.linkedin.com/in/heather-woods/)
 
