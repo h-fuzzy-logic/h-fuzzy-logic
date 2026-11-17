@@ -1,32 +1,13 @@
 ## Hi, y'all 👋
 
 I'm currently working on: 
-* [judge-audit](https://github.com/h-fuzzy-logic/judge-audit): measuring how well LLM judges agree with human labels. Chain-of-thought grading caught 2x more contradictions (28/50 vs 13/50).
-* Open source contributions to [Neuronpedia](https://github.com/hijohnnylin/neuronpedia/pull/219)
-* ARENA: transformer interpretability and LLM evaluations
+* Building agent eval tasks with the Inspect framework, QA'ing before use in [inspect-experiments](https://github.com/h-fuzzy-logic/inspect-experiments).
+     - 11 QA findings so far, including 4 wrong fixes the scorer would have passed.
+* Measuring how well LLM judges agree with human labels in [judge-audit](https://github.com/h-fuzzy-logic/judge-audit).
+     - Chain-of-thought grading caught more than twice as many contradictions (28/50 vs 13/50).
+* Contributing to [Neuronpedia](https://github.com/hijohnnylin/neuronpedia/pull/219), the open-source interpretability platform.
+     - Proposed fix for Docker onboarding on Mac so new contributors can run it locally.
 * Curating resources about [AI explainability, fairness, and safety](https://github.com/h-fuzzy-logic/explainability-fairness-safety-for-ai).  
-
-My current focus:
-* Building safer and trustworthy AI and ML systems 
-* Open source contributions to tech-for-good causes like [accelerating genomics research with cloud technologies](https://github.com/lynnlangit/aws-for-bioinformatics)
-
-😁 Connect with me on [LinkedIn](https://www.linkedin.com/in/heather-woods/)
-
-💬 Pronouns: she/her
-
-🎲 Fun facts: 
-* I’ve been sky diving...once.
-* I love hackathons. I’ve planned 9 and participated in 5. 
-* I’ve been a part of 2 iPhone apps. 
-    - I was part of a team that developed the Know:BRCA app that helped healthcare providers assess the risk of patients developing breast cancer.
-    - On my own, I shipped the Night Explorer app, which helped kiddos who were scared of the dark verify their bedrooms were monster free.
-
-📈 Approach to work: 
-* I love startups and small businesses
-* I have participated in one PITCH competition
-* I’ve seen a startup scale from 7 -> 60+ engineers 
-* I’ve completed an in-person startup accelerator program 
-* Growing-up, my parents ran a small business and it influences how I show up at work to this day.  
 
 ## Recent talks
 
@@ -51,5 +32,26 @@ My current focus:
 :round_pushpin: TriDev Meetup, Johnson City, TN
 
 :link: (Requires meetup.com account) [Event Details](https://www.meetup.com/tridev/events/301580743/)
+
+😁 Connect with me on [LinkedIn](https://www.linkedin.com/in/heather-woods/)
+
+💬 Pronouns: she/her
+
+🎲 Fun facts: 
+* I’ve been sky diving...once.
+* I love hackathons. I’ve planned 9 and participated in 5. 
+* I’ve been a part of 2 iPhone apps. 
+    - I was part of a team that developed the Know:BRCA app that helped healthcare providers assess the risk of patients developing breast cancer.
+    - On my own, I shipped the Night Explorer app, which helped kiddos who were scared of the dark verify their bedrooms were monster free.
+* I give my time to tech-for-good causes like open source contributions to [accelerating genomics research with cloud technologies](https://github.com/lynnlangit/aws-for-bioinformatics)
+
+
+📈 Approach to work: 
+* I love startups and small businesses
+* I have participated in one PITCH competition
+* I’ve seen a startup scale from 7 -> 60+ engineers 
+* I’ve completed an in-person startup accelerator program 
+* Growing-up, my parents ran a small business and it influences how I show up at work to this day  
+
 
 
