@@ -1,7 +1,7 @@
 ## Hi, y'all 👋
 
 I'm currently working on: 
-* An LLM-judge calibration kit: measuring position, verbosity, and self-preference bias in LLM judges
+* [judge-audit](https://github.com/h-fuzzy-logic/judge-audit): measuring how well LLM judges agree with human labels. Chain-of-thought grading caught 2x more contradictions (28/50 vs 13/50).
 * Open source contributions to [Neuronpedia](https://github.com/hijohnnylin/neuronpedia/pull/219)
 * ARENA: transformer interpretability and LLM evaluations
 * Curating resources about [AI explainability, fairness, and safety](https://github.com/h-fuzzy-logic/explainability-fairness-safety-for-ai).  
