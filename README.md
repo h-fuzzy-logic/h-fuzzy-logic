@@ -1,7 +1,7 @@
 ## Hi, y'all 👋
 
 I'm currently working on: 
-* Building agent eval tasks with the Inspect framework, QA'ing before use in [inspect-experiments](https://github.com/h-fuzzy-logic/inspect-experiments).
+* Building agent eval tasks with the Inspect framework, QA'ing them before use in [inspect-experiments](https://github.com/h-fuzzy-logic/inspect-experiments).
      - 11 QA findings so far, including 4 wrong fixes the scorer would have passed.
 * Measuring how well LLM judges agree with human labels in [judge-audit](https://github.com/h-fuzzy-logic/judge-audit).
      - Chain-of-thought grading caught more than twice as many contradictions (28/50 vs 13/50).
@@ -36,12 +36,12 @@ I'm currently working on:
 
 
 ## 🎲 Fun facts
-* I’ve been sky diving...once.
+* I’ve been skydiving...once.
 * I love hackathons. I’ve planned 9 and participated in 5. 
 * I’ve been a part of 2 iPhone apps. 
     - I was part of a team that developed the Know:BRCA app that helped healthcare providers assess the risk of patients developing breast cancer.
     - On my own, I shipped the Night Explorer app, which helped kiddos who were scared of the dark verify their bedrooms were monster free.
-* I give my time to tech-for-good causes like open source contributions to [accelerating genomics research with cloud technologies](https://github.com/lynnlangit/aws-for-bioinformatics)
+* I contribute to tech-for-good open source, like [accelerating genomics research with cloud technologies](https://github.com/lynnlangit/aws-for-bioinformatics).
 
 
 ## 📈 Approach to work 
@@ -49,7 +49,7 @@ I'm currently working on:
 * I have participated in one PITCH competition
 * I’ve seen a startup scale from 7 -> 60+ engineers 
 * I’ve completed an in-person startup accelerator program 
-* Growing-up, my parents ran a small business and it influences how I show up at work to this day  
+* Growing up, my parents ran a small business and it influences how I show up at work to this day  
 
 ## Say hi
 * 😁 Connect with me on [LinkedIn](https://www.linkedin.com/in/heather-woods/)
