@@ -1,6 +1,6 @@
 ## Hi, y'all 👋
 
-I'm currently working on: 
+## 🔬 I'm currently working on
 * Building agent eval tasks with the Inspect framework, QA'ing them before use in [inspect-experiments](https://github.com/h-fuzzy-logic/inspect-experiments).
      - 11 QA findings so far, including 4 wrong fixes the scorer would have passed.
 * Measuring how well LLM judges agree with human labels in [judge-audit](https://github.com/h-fuzzy-logic/judge-audit).
@@ -9,7 +9,7 @@ I'm currently working on:
      - Proposed fix for Docker onboarding on Mac so new contributors can run it locally.
 * Curating resources about [AI explainability, fairness, and safety](https://github.com/h-fuzzy-logic/explainability-fairness-safety-for-ai).  
 
-## Recent talks
+## 🎤 Recent talks
 
 ### Advance Your Career: 6 Tips for Strategic Learning
 :date: Presented January 7, 2025
