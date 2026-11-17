@@ -33,11 +33,9 @@ I'm currently working on:
 
 :link: (Requires meetup.com account) [Event Details](https://www.meetup.com/tridev/events/301580743/)
 
-😁 Connect with me on [LinkedIn](https://www.linkedin.com/in/heather-woods/)
 
-💬 Pronouns: she/her
 
-🎲 Fun facts: 
+## 🎲 Fun facts
 * I’ve been sky diving...once.
 * I love hackathons. I’ve planned 9 and participated in 5. 
 * I’ve been a part of 2 iPhone apps. 
@@ -46,12 +44,14 @@ I'm currently working on:
 * I give my time to tech-for-good causes like open source contributions to [accelerating genomics research with cloud technologies](https://github.com/lynnlangit/aws-for-bioinformatics)
 
 
-📈 Approach to work: 
+## 📈 Approach to work 
 * I love startups and small businesses
 * I have participated in one PITCH competition
 * I’ve seen a startup scale from 7 -> 60+ engineers 
 * I’ve completed an in-person startup accelerator program 
 * Growing-up, my parents ran a small business and it influences how I show up at work to this day  
 
-
+## Say hi
+* 😁 Connect with me on [LinkedIn](https://www.linkedin.com/in/heather-woods/)
+* 💬 Pronouns: she/her
 
