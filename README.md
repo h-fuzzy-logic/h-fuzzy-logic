@@ -1,4 +1,8 @@
-## Hi, y'all 👋
+# Heather Woods
+
+Hi, y'all 👋
+ 
+I'm Heather, a GenAI engineer and engineering manager who works in cloud, data, and production AI systems.
 
 ## 🔬 I'm currently working on
 * Building agent eval tasks with the Inspect framework, QA'ing them before use in [inspect-experiments](https://github.com/h-fuzzy-logic/inspect-experiments).
